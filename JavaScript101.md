@@ -108,6 +108,7 @@ An array is an ordered collection of values. Think of the line at a bank; it's a
 The `Array` object has several properties and methods. The most important property is `length`, it contains the size of the array. See reference for more details.
 
 * [Array reference (MDN)](https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/Array)
+* [Cool Array Documentation Tool](https://sdras.github.io/array-explorer/)
 
 <!-- slide -->
 
