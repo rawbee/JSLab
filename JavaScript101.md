@@ -9,15 +9,9 @@
 
 JavaScript is a **real language**. Building a modern dynamic website without knowing it is nonsense. And although it started as a language for building websites, it has since grown to be used on the server, to build native mobile apps, and just about anything that can run code. Thus, learning JavaScript is a good investment, the possibilities are endless.
 
+JavaScript was introduced by Brendan Eich in 1995 for Netscape Communications to add some interactivity to websites.
+
 <!-- slide : cover -->
-
-## History
-  
-JavaScript was introduced by Brendan Eich in 1995 for Netscape Communications. It was submitted few months later to Ecma International for consideration as an industry standard. The result standard version is ECMAScript.
-
-Even if the name comes from a partnership between Netscape and Sun Microsystems (distributor of Java) JavaScript is not a "light" version of Java.
-
-* [A Brief History of JavaScript by Brendan Eich (video)](http://brendaneich.com/2010/07/a-brief-history-of-javascript/)
 
 ## Basic syntax
 
@@ -27,11 +21,17 @@ JavaScript is **case-sensitive**. **Lines end by semicolon `;`**. **Blocks are d
 
 A variable is just a place to store a value, like a locker. Values in JavaScript fall into a few primitive types; the most common being Numbers and Strings (a collection of characters).
 
-In JavaScript, **Typing is dynamic**. Therefore, there is **NO type declaration** before variable names. Instead we use a **unique keyword : `var`**. Note that a variable **can be declared several times**. If it's non-declared, the variable is **automatically allocated at the first use**.
+To create a variable, you simply use the `var` keyword and then follow that with the name of your variable.
+
+```
+var myName
+```
+
+In JavaScript, **Typing is dynamic**. Therefore, there is **NO type declaration** before variable names. 
 
 ### Number
   
-Numbers like in any other languages are really important. Don't forget that a computer is primarly a super calculator. Integers and floats have the same type : `Number`. Of course, a variable can only be identified as type `Number` at execution time..
+Numbers like in any other languages are really important. Don't forget that a computer is primarly a super calculator. Integers (whole numbers) and floats (numbers with decimals) have the same type : `Number`. Of course, a variable can only be identified as type `Number` at execution time..
 
 If you want to manipulate numbers, the objects `Number` and `Math` has lots of useful properties and methods. The other useful way to manipulate them is operators of course. See reference for more details.
 
