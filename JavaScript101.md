@@ -7,7 +7,7 @@
 
 #### I know JavaScript - Show me!
 
-JavaScript is a **real language**. Building a modern dynamic website without knowing it is nonsense. And although it started as a language for building websites, it has since grown to be used on the server, to build native mobile apps, and just about anything that can run code. Thus, learning JavaScript is a good investment, the possibilities are endless.
+JavaScript is a **real language**. Building a modern dynamic website without knowing it is nonsense. And although it started as a language for building websites, it has since grown to be used on the server, to build native mobile apps, automate other programs (like Photoshop), and just about anything that can run code. Thus, learning JavaScript is a good investment, the possibilities are endless.
 
 JavaScript was introduced by Brendan Eich in 1995 for Netscape Communications to add some interactivity to websites.
 
