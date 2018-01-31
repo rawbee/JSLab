@@ -7,7 +7,7 @@
 
 #### I know JavaScript - Show me!
 
-JavaScript is a **real language**. Building a modern dynamic website without knowing it is nonsense. And although it started as a language for building websites, it has since grown to be used on the server, to build native mobile apps, automate other programs (like Photoshop), and just about anything that can run code. Thus, learning JavaScript is a good investment, the possibilities are endless.
+JavaScript is a **real language**. Although it started as a language for building websites, it has since grown to be used on the server, to build native mobile apps, automate other programs (like Photoshop), and just about anything that can run code. It is also very approachable, forgiving, and well documented.
 
 JavaScript was introduced by Brendan Eich in 1995 for Netscape Communications to add some interactivity to websites.
 
@@ -31,9 +31,9 @@ In JavaScript, **Typing is dynamic**. Therefore, there is **NO type declaration*
 
 ### Number
   
-Numbers like in any other languages are really important. Don't forget that a computer is primarly a super calculator. Integers (whole numbers) and floats (numbers with decimals) have the same type : `Number`. Of course, a variable can only be identified as type `Number` at execution time..
+Numbers like in any other languages are really important. Don't forget that a computer is primarly a super calculator. Integers (whole numbers) and floats (numbers with decimals) have the same type : `Number`.
 
-If you want to manipulate numbers, the objects `Number` and `Math` has lots of useful properties and methods. The other useful way to manipulate them is operators of course. See reference for more details.
+If you want to manipulate numbers, the objects `Number` and `Math` has lots of useful properties and methods. The other useful way to manipulate them is with operators. See reference for more details.
 
 ```javascript
 // Integer
@@ -52,7 +52,7 @@ var j = -5.01;
 
 ### String
   
-Strings are really simple. Quotes or double quotes, no differences, some text in it and you're done. The most important property of a String when it comes to manipulation is `length`. It's not the only one, the `String` object contains a lot of useful properties and methods, see reference for more details.
+Strings are really simple. Put some text in quotes, and that's a string. The `String` object contains a lot of useful properties and methods, see reference for more details.
 
 ```javascript
 var a = ""; // The empty string: it has zero characters
@@ -71,7 +71,7 @@ var f = "You're empty.\nSo are you."; // Type of all variables is string
 
 ### Boolean
   
-Nothing fancy here, `true` of `false`. You'll see later that other types of variables (Number, String...) can by evaluated as booleans according to some rules.
+A boolean is a value that is either `true` of `false`. You'll see later that other types of variables (Number, String...) can by evaluated as booleans according to some rules.
 
 <!-- .incremental -->
 ```javascript
