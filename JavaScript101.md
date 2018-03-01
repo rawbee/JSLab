@@ -590,7 +590,7 @@ Because of **performance issues** and in order to avoid **"bugs" and "strange be
 
 ## Simple functions
   
-Functions are declared with the `function` keyword. There's no return type and no variable type for the arguments.
+TODO: Add definition of funcion. Functions are declared with the `function` keyword. There's no return type and no variable type for the arguments.
 
 <!-- .incremental -->
 ```javascript
