@@ -23,6 +23,22 @@ There are many ways to run JavaScript code, but one of the easiest ways is in to
 
 JavaScript is **case-sensitive**. **Lines end by semicolon `;`**. **Blocks are delimited curly brackets by `{ }`**. Comments are between **`/* */` for multiple lines** or after **`//` for one line**.
 
+`var myVariable` is different from `var MyVariable`.
+
+`var myVariable = 'hello'; myVariable = 'goodbye'` is two statements--the value of `myVariable` will be `goodbye`
+
+```javascript
+var myVariable = "hello"; // this is a comment and will be ignored when JavaScript runs
+```
+
+```javascript
+/*
+  this is a comment and 
+  will be ignored when JavaScript runs
+*/
+var myVariable = "hello";
+```
+
 ## Variables & Types
 
 A variable is just a place to store a value, like a locker. Values in JavaScript fall into a few primitive types; the most common being Numbers and Strings (a collection of characters).
