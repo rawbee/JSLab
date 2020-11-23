@@ -45,11 +45,19 @@ A variable is just a place to store a value, like a locker. Values in JavaScript
 
 To create a variable, you simply use the `var` keyword and then follow that with the name of your variable.
 
-```
-var myName
+```javascript
+var myName; // creates a place to store a value. Note that no value is stored there
+myName = "Robby"; // Now we store a name, Robby, in the variable
+console.log(myName); // This will output Robby to the console.
+myName = "Abaya"; // We have now overwritten the value that was in our variable with a new value
+console.log(myName);
 ```
 
 In JavaScript, **Typing is dynamic**. Therefore, there is **NO type declaration** before variable names.
+
+```javascript
+myName = 120884; // This stores the number 120,884 into our variable
+```
 
 ### Number
 
