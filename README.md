@@ -9,7 +9,7 @@
 
 JavaScript is a **real language**. Although it started as a language for building websites, it has since grown to be used on the server, to build native mobile apps, automate other programs (like Photoshop), and just about anything that can run code. It is also very approachable, forgiving, and well documented.
 
-JavaScript was introduced by Brendan Eich in 1995 for Netscape Communications to add some interactivity to websites.
+JavaScript was introduced by [Brendan Eich](https://en.wikipedia.org/wiki/Brendan_Eich) in 1995 for Netscape Communications to add some interactivity to websites.
 
 <!-- slide : cover -->
 
