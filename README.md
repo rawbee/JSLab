@@ -13,6 +13,12 @@ JavaScript was introduced by [Brendan Eich](https://en.wikipedia.org/wiki/Brenda
 
 <!-- slide : cover -->
 
+## Running JavaScript
+
+There are many ways to run JavaScript code, but one of the easiest ways is in to use an online tool like [CodePen](https://codepen.io/), which we'll use in this class.
+
+<!-- slide : codepen -->
+
 ## Basic syntax
 
 JavaScript is **case-sensitive**. **Lines end by semicolon `;`**. **Blocks are delimited curly brackets by `{ }`**. Comments are between **`/* */` for multiple lines** or after **`//` for one line**.
