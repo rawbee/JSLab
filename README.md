@@ -63,7 +63,7 @@ myName = 120884; // This stores the number 120,884 into our variable
 
 Numbers like in any other languages are really important. Don't forget that a computer is primarly a super calculator. Integers (whole numbers) and floats (numbers with decimals) have the same type : `Number`.
 
-If you want to manipulate numbers, the objects `Number` and `Math` has lots of useful properties and methods. The other useful way to manipulate them is with operators. See reference for more details.
+If you want to manipulate numbers, the objects `Number` and `Math` have lots of useful properties and methods. The other useful way to manipulate them is with operators. See reference for more details.
 
 ```javascript
 // Integer
